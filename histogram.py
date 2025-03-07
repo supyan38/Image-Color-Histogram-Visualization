@@ -26,5 +26,4 @@ def plot_histogram(image_path):
     plt.legend(colors)
     plt.show()
 
-plot_histogram('C:/Users/LNV/Documents/semester 5/Pengolahan Citra/praktikum/percobaan 2/8bit.jpg')
 
